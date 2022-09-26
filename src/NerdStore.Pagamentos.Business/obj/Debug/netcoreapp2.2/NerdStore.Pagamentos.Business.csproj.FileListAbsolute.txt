@@ -1,0 +1,13 @@
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.deps.json
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CopyComplete
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb

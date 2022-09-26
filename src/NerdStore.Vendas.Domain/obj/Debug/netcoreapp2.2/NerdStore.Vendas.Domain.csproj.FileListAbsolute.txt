@@ -1,0 +1,13 @@
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb

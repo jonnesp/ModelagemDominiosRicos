@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NerdStore.Catalogo.Data
+build_property.ProjectDir = C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Catalogo.Data\

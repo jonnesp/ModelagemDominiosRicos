@@ -1,0 +1,15 @@
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.deps.json
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Projects\Cursos\Modelagem de Dominios Ricos\Projetos Prontos\NerdStore_CQRS\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.pdb
